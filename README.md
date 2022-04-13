@@ -53,16 +53,6 @@ Para desenvolvimento instale todas as dependências
 pip install -r requirements-dev.txt
 ```
 
-## Histórico de lançamentos
-
-* 0.0.1
-    * Trabalho em andamento
-
-## Meta
-
-André França – [@rspandre]([https://web.facebook.com/andrefrancarsp](https://web.facebook.com/andrefrancarsp)) – rsp.assistencia@gmail.com
-
-[https://github.com/andrersp/](https://github.com/andrersp/)
 
 ## Contributing
 
